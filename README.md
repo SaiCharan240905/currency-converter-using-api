@@ -9,10 +9,6 @@ To develop a frontend-based currency converter that:
 - Converts amounts between selected currencies
 - Displays results dynamically with a smooth user experience
 
-## 🌐 Live Demo
-
-🔗 [Click here to try the app](https://currencyconverter2409.netlify.app/)
-
 ## 🚀 Features
 
 ✅ **User Input for Conversion**
@@ -50,3 +46,23 @@ Through this project, I learned how to:
 - Handle asynchronous operations using Fetch
 - Validate and sanitize user input
 - Enhance user experience through responsive interactions
+
+## 🤝 Contributions
+
+This project is currently a solo initiative, but contributions, ideas, and improvements are always welcome!
+
+## 📃 License
+
+This project is intended for educational and personal learning purposes only. It is not affiliated with or endorsed by the original creators of diamondassociationbangalore.org.
+
+## 🌐 Live Demo
+
+🔗 (https://currencyconverter2409.netlify.app/)
+
+## 🙋‍♂️ Author
+
+M. Sai Charan
+
+🔗 www.linkedin.com/in/madki-sai-charan
+
+📫 Email: saicharanaiml.edam@gmail.com
